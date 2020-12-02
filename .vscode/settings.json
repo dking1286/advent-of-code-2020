@@ -1,0 +1,5 @@
+{
+  "calva.fmt.configPath": ".cljfmt.edn",
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true
+}

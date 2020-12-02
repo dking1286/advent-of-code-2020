@@ -6,6 +6,9 @@ pom.xml.asc
 /classes/
 /target/
 /checkouts/
+.calva
+.clj-kondo/.cache
+.cpcache
 .lein-deps-sum
 .lein-repl-history
 .lein-plugins/
