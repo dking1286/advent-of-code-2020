@@ -1,3 +1,4 @@
 {:linters {:missing-docstring {:level :off}
            :unsorted-required-namespaces {:level :warning}}
- :lint-as {}}
+ :lint-as {xyz.dking.advent-of-code-2020.utils/with-input-lines
+           clojure.core/with-open}}
